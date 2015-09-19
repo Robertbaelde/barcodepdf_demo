@@ -1,0 +1,13 @@
+{
+    "name": "robert/barcode",
+    "description": "Simple demo of barcode and pdf creation",
+    "require": {
+        "dompdf/dompdf": "^0.6.1"
+    },
+    "authors": [
+        {
+            "name": "Robert Baelde",
+            "email": "robert_baelde@hotmail.com"
+        }
+    ]
+}
